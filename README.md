@@ -1,8 +1,8 @@
 # Hi there, I'm KaviDeveloperSe! 👋
 
-![GitHub Banner](https://yourbannerlink.com/banner.png)
+![KaviDeveloperSe Banner](https://yourbannerlink.com/banner.gif)
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building innovative projects and learning new technologies. 
+---
 
 ## 🚀 Projects
 
@@ -15,12 +15,16 @@ Brief description of the second project.
 ### [Project Name 3](https://github.com/KaviDeveloperSe/project-3)
 Brief description of the third project.
 
+---
+
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, Python, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js, Express
 - **Tools & Platforms:** Git, Docker, MongoDB, Replit
 - **Other Skills:** [Any other relevant skills]
+
+---
 
 ## 🌟 Highlights
 
@@ -30,6 +34,8 @@ Brief description of the third project.
 - 🌍 Open-source contributor to various projects
 - 📈 Always keen to optimize and improve code for better performance
 
+---
+
 ## 📫 Get in Touch
 
 - **Email:** [kavi@example.com](mailto:kavi@example.com)
@@ -37,11 +43,15 @@ Brief description of the third project.
 - **Twitter:** [@KaviDeveloperSe](https://twitter.com/KaviDeveloperSe)
 - **Blog:** [Your Blog](https://yourbloglink.com)
 
+---
+
 ## 📝 Latest Blog Posts
 
 - [Post Title 1](https://yourbloglink.com/post1)
 - [Post Title 2](https://yourbloglink.com/post2)
 - [Post Title 3](https://yourbloglink.com/post3)
+
+---
 
 ## 👨‍💻 About Me
 
@@ -53,6 +63,8 @@ I'm constantly learning and exploring new technologies to stay updated with the 
 - 🚴‍♂️ Go for bike rides
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical)
 
