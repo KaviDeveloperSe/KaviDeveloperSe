@@ -71,3 +71,4 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaviDeveloperSe&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=KaviDeveloperSe&color=brightgreen)
