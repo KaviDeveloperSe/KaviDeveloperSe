@@ -22,37 +22,6 @@ I'm a passionate full-stack developer with a strong focus on JavaScript, Python,
 ![Cyber Kavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KaviDeveloperSe&theme=radical)
-
-## 📌 Pinned Repositories
-
-[![Unofficial Release](https://github-readme-stats.vercel.app/api/pin/?username=KaviDeveloperSe&repo=Unofficial-Release&theme=radical)](https://github.com/KaviDeveloperSe/Unofficial-Release)
-
-## 🔥 Recent Activity
-
-- 📺 Latest YouTube Videos
-  - [Title of Video 1](https://www.youtube.com/watch?v=example)
-  - [Title of Video 2](https://www.youtube.com/watch?v=example)
-
-- 📝 Latest Blog Posts
-  - [Title of Blog Post 1](https://your-blog-link.com/post1)
-  - [Title of Blog Post 2](https://your-blog-link.com/post2)
-
-- 🐦 Latest Tweets
-  - [Your latest tweet](https://twitter.com/your-twitter-handle/status/1234567890)
-
-## 🎨 Projects Showcase
-
-### Project 1: KAVI-X WHATSAPP BOT
-![KAVI-X WHATSAPP BOT](https://github.com/KaviDeveloperSe/Unofficial-Release/blob/main/screenshot.png)
-A powerful WhatsApp bot using the Whiskeysockets npm package.
-
-### Project 2: Another Cool Project
-![Another Cool Project](https://github.com/KaviDeveloperSe/another-cool-project/blob/main/screenshot.png)
-Description of your project.
-
 ## 🔗 Connect with Me
 
 - [GitHub](https://github.com/KaviDeveloperSe)
