@@ -21,11 +21,3 @@ I'm a passionate full-stack developer with a strong focus on JavaScript, Python,
 
 ![Cyber Kavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical)
-
-## 🔗 Connect with Me
-
-- [GitHub](https://github.com/KaviDeveloperSe)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Portfolio](https://your-portfolio-site.com)
-- [Twitter](https://twitter.com/your-twitter-handle)
-
