@@ -90,9 +90,13 @@ backend:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF"/>
+<a href="https://github.com/KaviDeveloperSe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF&cache_seconds=86400"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&text_color=FFFFFF"/>
+<a href="https://github.com/KaviDeveloperSe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&text_color=FFFFFF&langs_count=8&cache_seconds=86400"/>
+</a>
 
 </div>
 
@@ -102,9 +106,19 @@ backend:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KaviDeveloperSe&theme=radical&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D)
+<a href="https://github.com/KaviDeveloperSe">
+  <img src="https://streak-stats.demolab.com?user=KaviDeveloperSe&theme=radical&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D&cache_seconds=86400" alt="GitHub Streak"/>
+</a>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaviDeveloperSe&custom_title=Contribution%20Activity&bg_color=0D1117&color=FFFFFF&line=FF4D4D&point=FF4D4D&area=true&hide_border=true)
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/KaviDeveloperSe">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviDeveloperSe&custom_title=Contribution%20Activity&bg_color=0D1117&color=FFFFFF&line=FF4D4D&point=FF4D4D&area=true&hide_border=true&cache_seconds=86400" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -114,7 +128,9 @@ backend:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KaviDeveloperSe&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+<a href="https://github.com/KaviDeveloperSe">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaviDeveloperSe&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&cache_seconds=86400" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
