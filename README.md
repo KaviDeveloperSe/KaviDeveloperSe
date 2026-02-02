@@ -96,13 +96,7 @@ I care deeply about **clean architecture, speed, and scalability**.
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?
-  username=KaviDeveloperSe&
-  bg_color=0d1117&
-  color=ff4d4d&
-  line=ff4d4d&
-  point=ffffff&
-  hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviDeveloperSe&bg_color=0d1117&color=ff4d4d&line=ff4d4d&point=ffffff&hide_border=true" />
 </p>
 
 ---
