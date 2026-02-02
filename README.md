@@ -77,10 +77,8 @@ I care deeply about **clean architecture, speed, and scalability**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -88,7 +86,7 @@ I care deeply about **clean architecture, speed, and scalability**.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaviDeveloperSe&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KaviDeveloperSe&theme=radical&hide_border=true" />
 </p>
 
 ---
