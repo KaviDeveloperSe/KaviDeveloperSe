@@ -1,120 +1,166 @@
-<!-- ================= HERO ================= -->
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#ff4d4d;">Kavi Developer SE</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=22&
-  pause=900&
-  color=FF4D4D&
-  center=true&
-  vCenter=true&
-  width=650&
-  lines=Full-Stack+Developer;Cloud+%26+Serverless+Explorer;Automation+%26+Bot+Builder;Founder+of+KavixBot" />
-</p>
+# 👋 Hey, I'm Kavi Developer SE
 
-<p align="center">
-  <a href="https://www.kavixbot.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Website-kavixbot.xyz-ff4d4d?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+### Full-Stack Developer | Cloud Architect | Automation Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KaviDeveloperSe&label=Profile%20Views&color=ff4d4d&style=flat" />
-</p>
+[![Website](https://img.shields.io/badge/🌐_Website-kavixbot.xyz-FF4D4D?style=for-the-badge)](https://www.kavixbot.xyz/)
+[![Profile Views](https://komarev.com/ghpvc/?username=KaviDeveloperSe&label=Profile%20Views&color=FF4D4D&style=for-the-badge)](https://github.com/KaviDeveloperSe)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I’m a **full-stack developer & SaaS builder** focused on creating  
-**high-performance web apps, automation systems, and cloud-native APIs**.
+I'm a **full-stack developer** and **SaaS builder** passionate about creating high-performance, scalable solutions. As the founder of **KavixBot Platform**, I specialize in building robust web applications, automation systems, and cloud-native APIs.
 
-I care deeply about **clean architecture, speed, and scalability**.
+```javascript
+const kavi = {
+    location: "🌍 Global",
+    role: "Full-Stack Developer & Founder",
+    focus: ["Serverless Architecture", "Automation", "API Design"],
+    currentProject: "KavixBot Platform",
+    philosophy: "Code Smart • Build Fast • Scale Clean"
+};
+```
 
-- 💻 JavaScript | Python | Web Automation  
-- ☁️ Serverless, Cloud & API Scaling  
-- 🤖 Bots, Scrapers & Backend Systems  
-- 🌍 Founder of **KavixBot Platform**
+### 🚀 What I Do
 
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🛠️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,pm2,cloudflare" />
-</p>
+- 🏗️ **Build** scalable web applications with modern frameworks
+- ☁️ **Deploy** serverless solutions on cutting-edge cloud platforms
+- 🤖 **Automate** complex workflows with custom bots and scrapers
+- 🔧 **Optimize** backend systems for speed and reliability
+- 📚 **Share** knowledge through open-source contributions
 
 ---
 
-## ☁️ Current Focus
+## 🛠️ Tech Stack
 
-- Serverless Platforms (Vercel, Fly.io, Cloudflare)
-- High-speed scraping & browser automation
-- Secure, scalable backend APIs
-- Open-source bot frameworks
+<div align="center">
 
----
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 GitHub Analytics
+### Frameworks & Runtime
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
-</p>
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaviDeveloperSe&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviDeveloperSe&bg_color=0d1117&color=ff4d4d&line=ff4d4d&point=ffffff&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="https://www.kavixbot.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Platform-KavixBot-ff4d4d?style=for-the-badge"/>
-  </a>
-</p>
+```yaml
+serverless_platforms:
+  - Vercel
+  - Cloudflare Workers
+  - Fly.io
+
+automation:
+  - High-speed web scraping
+  - Browser automation (Puppeteer/Playwright)
+  - Custom bot frameworks
+
+backend:
+  - RESTful API design
+  - Microservices architecture
+  - Real-time systems with WebSockets
+```
 
 ---
 
-<p align="center">
-  <b>⚡ Code Smart • Build Fast • Scale Clean ⚡</b><br/>
-  <sub>Founder mindset. Engineer execution.</sub>
-</p>
+## 📊 GitHub Stats
 
-<!-- ============== FOOTER WAVE (CENTERED & BOTTOM) ============== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=120&section=footer"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaviDeveloperSe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviDeveloperSe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Metrics
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KaviDeveloperSe&theme=radical&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaviDeveloperSe&custom_title=Contribution%20Activity&bg_color=0D1117&color=FFFFFF&line=FF4D4D&point=FF4D4D&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=KaviDeveloperSe&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **KavixBot Platform** | Multi-purpose automation platform | Node.js, MongoDB, Express |
+| **Serverless APIs** | High-performance REST APIs | Cloudflare Workers, Vercel |
+| **Web Scrapers** | Scalable data extraction tools | Python, Puppeteer |
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+> **"Code Smart • Build Fast • Scale Clean"**
+> 
+> I believe in writing clean, maintainable code that solves real problems. Every line should serve a purpose, every function should be optimized, and every system should be built to scale.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Visit_KavixBot-FF4D4D?style=for-the-badge)](https://www.kavixbot.xyz/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/KaviDeveloperSe)
+
+### 📬 Open to collaboration and interesting projects!
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Founder Mindset • Engineer Execution ⚡
+
+*Building the future, one commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=100&section=footer"/>
+
+</div>
